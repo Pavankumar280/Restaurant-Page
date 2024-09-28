@@ -1,1 +1,1 @@
-https://pavankumar280.github.io/index/
+ https://pavankumar280.github.io/Restaurant-Page/
